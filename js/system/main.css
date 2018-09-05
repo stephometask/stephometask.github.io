@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	color: white;
+}
+body{
+	background: url('bg.jpg');
+	background-size: cover;
+	padding: 25px;
+}
+.task{
+	background: rgba(255,255,255,0.7);
+	padding: 20px;
+	margin-bottom: 25px;
+}
