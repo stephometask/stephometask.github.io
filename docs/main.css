@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: url("bg.jpg");
+	background-size: cover;
+	padding: 20px;
+}
+.categories{
+	margin-bottom: 20px;
+	background: rgba(255,255,255,0.7);
+	font-family: helvetica,tahoma,verdana,arial;
+}
+.categories li{
+	padding: 20px;
+}
+.categories a{
+	font-size: 20px;
+	color: black;
+}
