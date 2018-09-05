@@ -11,7 +11,9 @@ body{
 	margin-bottom: 20px;
 	background: rgba(255,255,255,0.7);
 	font-family: helvetica,tahoma,verdana,arial;
+	list-style-type: none;
 }
+
 .categories li{
 	padding: 20px;
 }
